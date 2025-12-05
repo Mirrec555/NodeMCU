@@ -12,6 +12,8 @@ NodeMCU är en liten mikrokontrollbaserad ''mini-dator'', som man kan progammera
 LED kopplad till ´LED_BUILTIN´ förbereds som utgång för att styras av programmet:
 
 ![MikroBILD](https://github.com/user-attachments/assets/7267f7f1-7014-44fe-85a2-b470138dafe8) 
+
+Det betyder att kodningen sker via Arduino, där man bestämmer ifall pinnen ska vara en input eller output, alltså en ingång eller utgång. 
 ## Kodförklaring
 
 
